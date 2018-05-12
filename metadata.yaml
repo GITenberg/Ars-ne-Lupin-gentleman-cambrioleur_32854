@@ -1,0 +1,48 @@
+_repo: Ars-ne-Lupin-gentleman-cambrioleur_32854
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Claretie, Jules
+    aliases:
+    - Claretie, Arsène-Armand
+    - Claretie, Arsène-Arnaud
+    - Claretie, Arsene-Arnaud
+    birthdate: 1840
+    deathdate: 1913
+    gutenberg_agent_id: '1338'
+    url: http://www.gutenberg.org/2009/agents/1338
+    wikipedia: http://en.wikipedia.org/wiki/Jules_Ars%C3%A8ne_Arnaud_Claretie
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leblanc, Maurice
+    birthdate: 1864
+    deathdate: 1941
+    gutenberg_agent_id: '1358'
+    url: http://www.gutenberg.org/2009/agents/1358
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Leblanc
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2010-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32854'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Adventure stories, French'
+- !lcsh 'Burglars -- Fiction'
+- !lcsh 'Lupin, Arsène (Fictitious character) -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PQ'
+tableOfContents: L'arrestation d'Arsène Lupin -- Arsène Lupin en prison -- L'évasion
+  d'Arsène Lupin -- Le mystérieux voyageur -- Le collier de la Reine -- Le sept de
+  coeur -- Le coffre-fort de Madame Imbert -- La perle noire -- Herlock Sholmès arrive
+  trop tard.
+title: Arsène Lupin, gentleman-cambrioleur
+url: http://www.gutenberg.org/ebooks/32854
