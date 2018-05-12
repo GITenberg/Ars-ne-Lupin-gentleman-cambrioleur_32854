@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1358
     wikipedia: http://en.wikipedia.org/wiki/Maurice_Leblanc
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32854#Ars-ne-Lupin-gentleman-cambrioleur
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2010-06-17'
 gutenberg_type: Text
